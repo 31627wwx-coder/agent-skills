@@ -18,6 +18,7 @@
 | Skill | 说明 |
 |-------|------|
 | [windows-pc-health-check](.agents/skills/windows-pc-health-check/) | **电脑大保健**：Windows 存储 / 软件更新 / 开机项 / 安全与磁盘健康 / 默认路径，先扫后批再执行 |
+| [wedding-script-gemini](.agents/skills/wedding-script-gemini/) | **婚礼台词写稿**：方法论+自有语料学习点；经 system_instruction 喂给 Gemini Argon；禁止裸跑问卷；学方法不背句子 |
 
 ## 怎么用（简版）
 
